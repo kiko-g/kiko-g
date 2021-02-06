@@ -19,4 +19,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<img style="padding-top: 1em;" height="180em" src="https://github-readme-stats.vercel.app/api?username=kiko-g&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true&theme=dark" />
+<img style="padding-top: 1em;" height="180em" src="https://github-readme-stats.vercel.app/api?username=kiko-g&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
