@@ -1,7 +1,6 @@
 ### Hi there, my name is Francisco Gonçalves 👋
 
-💻 Taking MSc in Computer Engineering @ [FEUP](https://sigarra.up.pt/feup/en/web_page.inicial)
-
+💻 Taking MSc in Computer Engineering @ [FEUP](https://sigarra.up.pt/feup/en/web_page.inicial)\
 👀 Check out my personal web page [here](https://web.fe.up.pt/~up201704790/)
 
 <!--
