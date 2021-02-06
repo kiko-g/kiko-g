@@ -1,4 +1,8 @@
-### Hi there 👋
+### Hi there, my name is Francisco Gonçalves 👋
+
+💻 Taking MSc in Computer Engineering @ [FEUP](https://sigarra.up.pt/feup/en/web_page.inicial)
+
+👀 Check out my personal web page [here](https://web.fe.up.pt/~up201704790/)
 
 <!--
 **kiko-g/kiko-g** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +18,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+<img style="padding-top: 1em;" height="180em" src="https://github-readme-stats.vercel.app/api?username=kiko-g&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true&theme=dark" />
