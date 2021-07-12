@@ -1,7 +1,7 @@
-### Hi there, my name is Francisco Gonçalves 👋
+### Hi there, I'm Francisco 👋
 
 💻 Taking MSc in Computer Engineering @ [FEUP](https://sigarra.up.pt/feup/en/web_page.inicial)\
-👀 Check out my personal web page [here](https://web.fe.up.pt/~up201704790/)
+👀 Check out my personal web page [here](https://kiko-g.github.io/)
 
 <!--
 **kiko-g/kiko-g** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
