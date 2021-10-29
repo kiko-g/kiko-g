@@ -3,7 +3,7 @@
 💻 Taking MSc in Computer Engineering @ [FEUP](https://sigarra.up.pt/feup/en/CUR_GERAL.CUR_PLANOS_ESTUDOS_VIEW?pv_plano_id=31204&pv_ano_lectivo=2021)\
 👀 Github pages deployed at [kiko-g.github.io](https://kiko-g.github.io/)\
 🌍 Check out [kikogoncalves.me](https://kikogoncalves.me) to find out more about me 😄\
-📫 My socials on [linktree](https://linktr.ee/kikogoncalves)
+📫 My socials on [linktr.ee/kikogoncalves](https://linktr.ee/kikogoncalves)
 
 <!--
 🏢 Member of Informatics Student Branch @ FEUP, [NIAEFEUP]()
