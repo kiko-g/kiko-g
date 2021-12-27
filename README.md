@@ -5,8 +5,11 @@
 🌍 Check out [kikogoncalves.me](https://kikogoncalves.me) to find out more about me 😄\
 📫 My socials on [linktr.ee/kikogoncalves](https://linktr.ee/kikogoncalves)
 
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=sabertazimi&show_icons=true&bg_color=30,e96443,904e95&title_color=fff&text_color=fff&icon_color=fff)](https://github.com/sabertazimi)
+
 <!--
 🏢 Member of Informatics Student Branch @ FEUP, [NIAEFEUP]()
+<img style="margin-top: 2rem;" height="180em" src="https://github-readme-stats.vercel.app/api?username=kiko-g&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
 **kiko-g/kiko-g** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
@@ -20,5 +23,3 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
-<img style="margin-top: 2rem;" height="180em" src="https://github-readme-stats.vercel.app/api?username=kiko-g&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
