@@ -5,7 +5,7 @@
 🌍 Check out [kikogoncalves.me](https://kikogoncalves.me) to find out more about me 😄\
 📫 My socials on [linktr.ee/kikogoncalves](https://linktr.ee/kikogoncalves)
 
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=sabertazimi&show_icons=true&bg_color=30,e96443,904e95&title_color=fff&text_color=fff&icon_color=fff)](https://github.com/sabertazimi)
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=kiko-g&show_icons=true&bg_color=30,e96443,904e95&title_color=fff&text_color=fff&icon_color=fff)](https://github.com/kiko-g)
 
 <!--
 🏢 Member of Informatics Student Branch @ FEUP, [NIAEFEUP]()
