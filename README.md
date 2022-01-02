@@ -1,3 +1,5 @@
+## Hi there, I'm Francisco 👋
+
 <style>
   
 .container {
@@ -13,9 +15,8 @@
 .hero {
   margin-left: 10px;
 }
+  
 </style>
-
-## Hi there, I'm Francisco 👋
 
 <main class="container">
 
