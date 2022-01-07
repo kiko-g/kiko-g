@@ -14,15 +14,15 @@
 <img align="center" style="margin-left: 1rem; margin-top: 1rem" src="https://github-readme-stats.vercel.app/api?username=kiko-g&show_icons=true&bg_color=30,D1FAE5,BFDBFE,DDD6FE&title_color=475569&text_color=FFFFFF&icon_color=475569" />
 </a>
 
-<a href="https://github.com/anuraghazra/convoychat">
-<img align="center" style="margin-left: 1rem; margin-top: 1rem" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kiko-g&hide=glsl,plpgsql,html,tsql&langs_count=8&layout=compact" />
-</a>
-
 </article>
 
 </main>
 
 <!--
+<a href="https://github.com/anuraghazra/convoychat">
+<img align="center" style="margin-left: 1rem; margin-top: 1rem" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kiko-g&hide=glsl,plpgsql,html,tsql&langs_count=8&layout=compact" />
+</a>
+
 - https://github.com/anuraghazra/github-readme-stats
 
 🏢 Member of Informatics Student Branch @ FEUP, [NIAEFEUP]()
