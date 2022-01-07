@@ -8,14 +8,14 @@
 🌍 Check out [kikogoncalves.me](https://kikogoncalves.me) to find out more about me 😄\
 📫 My socials on [linktr.ee/kikogoncalves](https://linktr.ee/kikogoncalves)
 
-<article class="hero">
+<article class="hero" style="display: flex">
 
 <a href="https://github.com/kiko-g">
-<img align="center" style="margin: 1rem" src="https://github-readme-stats.vercel.app/api?username=kiko-g&show_icons=true&bg_color=30,D1FAE5,BFDBFE,DDD6FE&title_color=475569&text_color=FFFFFF&icon_color=475569" />
+<img align="center" style="margin-left: 1rem; margin-top: 1rem" src="https://github-readme-stats.vercel.app/api?username=kiko-g&show_icons=true&bg_color=30,D1FAE5,BFDBFE,DDD6FE&title_color=475569&text_color=FFFFFF&icon_color=475569" />
 </a>
 
 <a href="https://github.com/anuraghazra/convoychat">
-<img align="center" style="margin: 1rem" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kiko-g&hide=glsl,plpgsql,html,tsql&langs_count=8&layout=compact" />
+<img align="center" style="margin-left: 1rem; margin-top: 1rem" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kiko-g&hide=glsl,plpgsql,html,tsql&langs_count=8&layout=compact" />
 </a>
 
 </article>
