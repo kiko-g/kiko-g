@@ -4,8 +4,8 @@
 <main class="container">
 
 💻 Currently taking MSc in Computer Engineering @ [FEUP](https://sigarra.up.pt/feup/en/CUR_GERAL.CUR_PLANOS_ESTUDOS_VIEW?pv_plano_id=31204&pv_ano_lectivo=2021)\
-🌱 Frontend development is currently what I enjoy the most, namely using React and TailwindCSS
-📄 Take a look at my CV pdf [here](https://kiko-g.github.io/cv.pdf)
+🌱 Frontend development is currently what I enjoy the most, namely using React and TailwindCSS\
+📄 Take a look at my CV pdf [here](https://kiko-g.github.io/cv.pdf)\
 🌍 Check out my website [kikogoncalves.me](https://kikogoncalves.me) to find out more about me 😄\
 📫 My socials on [linktr.ee/kikogoncalves](https://linktr.ee/kikogoncalves)
 
