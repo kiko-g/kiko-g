@@ -12,17 +12,19 @@
 <article class="hero" style="display: flex">
 
 <a href="https://github.com/kiko-g">
-<img align="center" style="margin-left: 1rem; margin-top: 1rem" src="https://github-readme-stats.vercel.app/api?username=kiko-g&show_icons=true&bg_color=30,D1FAE5,BFDBFE,DDD6FE&title_color=475569&text_color=475569&icon_color=475569" />
+<img align="center" style="margin-left: 1rem; margin-top: 1rem" src="https://github-readme-stats.vercel.app/api?username=kiko-g&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&bg_color=30,D1FAE5,BFDBFE,DDD6FE&title_color=475569&text_color=475569&icon_color=475569" />
 </a>
 
 </article>
 
 </main>
 
-<!--
+<--
+
 <a href="https://github.com/anuraghazra/convoychat">
 <img align="center" style="margin-left: 1rem; margin-top: 1rem" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kiko-g&hide=glsl,plpgsql,html,tsql&langs_count=8&layout=compact" />
 </a>
+
 
 - https://github.com/anuraghazra/github-readme-stats
 
