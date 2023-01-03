@@ -3,10 +3,10 @@
 
 <main class="container">
 
-💻 Currently taking MSc in Computer Engineering @ [FEUP](https://sigarra.up.pt/feup/en/CUR_GERAL.CUR_PLANOS_ESTUDOS_VIEW?pv_plano_id=31204&pv_ano_lectivo=2021)\
-🌱 Frontend development is what I enjoy the most
-🌍 Check out my website [kikogoncalves.me](https://kikogoncalves.me) to find out more about me 😄\
-📄 Take a look at my resume pdf available [here](https://kiko-g.github.io/cv.pdf)\
+💻 Currently taking a MSc in Computer Engineering @ [FEUP](https://sigarra.up.pt/feup/en/CUR_GERAL.CUR_PLANOS_ESTUDOS_VIEW?pv_plano_id=31204&pv_ano_lectivo=2021), excpted to graduate in July 2023\
+🌱 Frontend development is what I enjoy the most, namely using React with Typescript and Tailwind
+🌍 Check out my website [kikogoncalves.me](https://kikogoncalves.me) to find out more about me!\
+📄 Take a look at my resume pdf available [here](https://kikogoncalves.com/cv.pdf)\
 📫 My socials on [linktr.ee/kikogoncalves](https://linktr.ee/kikogoncalves)
 
   <article class="hero" style="display: flex">
