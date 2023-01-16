@@ -6,7 +6,7 @@
 💻 Currently taking a [MSc in Computer Engineering](https://sigarra.up.pt/feup/en/CUR_GERAL.CUR_PLANOS_ESTUDOS_VIEW?pv_plano_id=31204&pv_ano_lectivo=2021) @ [FEUP](https://fe.up.pt), expected to graduate in July 2023\
 🌱 Frontend development is what I enjoy the most, namely using React with Typescript and Tailwind\
 🌍 Check out my website [kikogoncalves.com](https://kikogoncalves.com) to find out more about me\
-📄 Take a look at my resume pdf available [here](https://kikogoncalves.com/cv.pdf)
+📄 Take a look at my resume available [web format](https://kikogoncalves.com/cv) and also in [pdformat](https://kikogoncalves.com/cv.pdf)
 
   <article class="hero" style="display: flex">
 
