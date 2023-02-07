@@ -13,4 +13,4 @@
 
 [![Github Stats](https://github-readme-stats.vercel.app/api?username=kiko-g&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&bg_color=30,D1FAE5,BFDBFE,DDD6FE&title_color=475569&text_color=475569&icon_color=475569)](https://kikogoncalves.com/portfolio)
     
-[![Spotify recently played](https://spotify-recently-played-readme.vercel.app/api?user=clumsy_kiko)
+[![Spotify recently played](https://spotify-recently-played-readme.vercel.app/api?user=clumsy_kiko)](https://open.spotify.com/user/clumsy_kiko)
