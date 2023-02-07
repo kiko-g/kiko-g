@@ -4,7 +4,7 @@
 💼 Currently interning @ Critical Manufacturing as a part of the product development team\
 🌱 Frontend development is what I enjoy the most, namely using React with Typescript and Tailwind\
 🌍 Check out my website [kikogoncalves.com](https://kikogoncalves.com) to find out more about me\
-📄 Take a look at my resume which is available in [web format](https://kikogoncalves.com/cv) and also in [pdf](https://kikogoncalves.com/cv.pdf)
+📄 My resume is available [here as a web page](https://kikogoncalves.com/cv) and also [here as a pdf file](https://kikogoncalves.com/cv.pdf)
 
 [![Github Stats](https://github-readme-stats.vercel.app/api?username=kiko-g&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&bg_color=30,D1FAE5,BFDBFE,DDD6FE&title_color=475569&text_color=475569&icon_color=475569)](https://kikogoncalves.com/portfolio)
     
