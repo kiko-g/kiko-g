@@ -15,7 +15,9 @@
     <img align="center" style="margin-left: 1rem; margin-top: 1rem" src="https://github-readme-stats.vercel.app/api?username=kiko-g&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&bg_color=30,D1FAE5,BFDBFE,DDD6FE&title_color=475569&text_color=475569&icon_color=475569" />
   </a>
   
+  <div style="margin-left: 1rem; margin-top: 2rem">
   [![Spotify recently played](https://spotify-recently-played-readme.vercel.app/api?user=jeffreyca16)](https://open.spotify.com/user/jeffreyca16)
+  </div>
 
   </article>
 </main>
