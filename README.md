@@ -16,7 +16,7 @@
   </a>
   
   <a href="https://open.spotify.com/user/clumsy_kiko">
-    <img align="center" style="margin-left: 1rem; margin-top: 1rem" src="https://spotify-recently-played-readme.vercel.app/api?user=clumsy_kiko&width=600" />
+    <img align="center" style="margin-left: 1rem; margin-top: 1rem" src="https://spotify-recently-played-readme.vercel.app/api?user=clumsy_kiko&width=320" />
   </a>
 
   </article>
