@@ -8,6 +8,6 @@
 ‼️ If you're interested in my profile [reach me on LinkedIn](https://www.linkedin.com/in/kikogoncalves/)\
 😕 Currently working in private on **GitLab**: https://gitlab.com/francisco.goncalves
 
-[![Github Stats](https://github-readme-stats.vercel.app/api?username=kiko-g&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&bg_color=30,D1FAE5,BFDBFE,DDD6FE&title_color=475569&text_color=475569&icon_color=475569)](https://kikogoncalves.com/portfolio)
+<!-- [![Github Stats](https://github-readme-stats.vercel.app/api?username=kiko-g&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&bg_color=30,D1FAE5,BFDBFE,DDD6FE&title_color=475569&text_color=475569&icon_color=475569)](https://kikogoncalves.com/portfolio) -->
 
-[![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=kiko-g&&exclude_repo=rushing-b,time-hopper,uni4all_app,feup-lcom)](https://github.com/kiko-g/github-readme-stats)
+<!-- [![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=kiko-g&&exclude_repo=rushing-b,time-hopper,uni4all_app,feup-lcom)](https://github.com/kiko-g/github-readme-stats) -->
