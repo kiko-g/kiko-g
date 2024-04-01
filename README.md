@@ -1,6 +1,9 @@
 ## Hi there, I'm Francisco 👋
 
-💼 24-year-old Software Engineer at [Jumspeller](https://www.linkedin.com/company/jumpseller/) 🏷️🟢 (📍 based in Porto, Portugal)\
+- 24 year-old Software Engineer at [Jumspeller](https://www.linkedin.com/company/jumpseller/) 💚🏷️
+- Based in Porto, Portugal 🇵🇹📍
+
+
 💻 Master in [Computer Engineering](https://sigarra.up.pt/feup/en/CUR_GERAL.CUR_PLANOS_ESTUDOS_VIEW?pv_plano_id=31204&pv_ano_lectivo=2021) @ [FEUP](https://fe.up.pt), graduated in July 2023\
 🛠️ My [portfolio](https://kikogoncalves.com) is available on my website\
 📖 My resume is available in [pdf](https://kikogoncalves.com/cv.pdf) and in [web format](https://kikogoncalves.com/cv)\
