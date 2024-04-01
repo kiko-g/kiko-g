@@ -5,8 +5,7 @@
 🛠️ My [portfolio](https://kikogoncalves.com) is available on my website\
 📖 My resume is available in [pdf](https://kikogoncalves.com/cv.pdf) and in [web format](https://kikogoncalves.com/cv)\
 ‼️ If you're interested in my profile [reach me on LinkedIn](https://www.linkedin.com/in/kikogoncalves/)
-
-**GitLab**: https://gitlab.com/francisco.goncalves
+⚠️ Currently working in private repos on **GitLab**: https://gitlab.com/francisco.goncalves
 
 [![Github Stats](https://github-readme-stats.vercel.app/api?username=kiko-g&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&bg_color=30,D1FAE5,BFDBFE,DDD6FE&title_color=475569&text_color=475569&icon_color=475569)](https://kikogoncalves.com/portfolio)
 
